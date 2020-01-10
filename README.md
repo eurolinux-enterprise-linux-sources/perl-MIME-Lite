@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - perl-MIME-Lite 
+# ELS - Enterprise Linux/EuroLinux Sources - perl-MIME-Lite
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
